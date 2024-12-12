@@ -15,7 +15,7 @@ Go inside the Question_1/ folder and run the following:
 ```sh
 python3 main.py
 ```
-![Alt Text](./media/question_1.gif)
+![Alt Text](./media/multithread.gif)
 
 ### Description and directory  structure 
 ```sh
